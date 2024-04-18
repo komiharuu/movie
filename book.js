@@ -2,7 +2,7 @@ function makeCard() {
     let title = $('#title').val();
     let name = $('#name').val();
     let txt = $('#txt').val();
-    alert('저장되었습니다');
+    alert('저장되었습니다! 감사합니다');
     let temp_html = `
 <p class="card-group">
 <div class="card border-primary mb-3" style="max-width: 18rem;">
